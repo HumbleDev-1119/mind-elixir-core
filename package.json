@@ -1,5 +1,5 @@
 {
-  "name": "mind-elixir",
+  "name": "kreatorpro-mind-elixir",
   "version": "1.1.0",
   "description": "Mind elixir is a free open source mind map core.",
   "main": "dist/MindElixir.js",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ssshooter/mind-elixir-core"
+    "url": "https://github.com/HumbleDev-1119/mind-elixir-core"
   },
   "homepage": "https://mind-elixir.com/",
   "author": "ssshooter",
