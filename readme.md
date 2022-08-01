@@ -51,7 +51,7 @@ npm i kreatorpro-mind-elixir -S
 ```
 
 ```javascript
-import MindElixir, { E } from 'mind-elixir'
+import MindElixir, { E } from 'kreatorpro-mind-elixir'
 ```
 
 #### Script tag
@@ -77,7 +77,7 @@ import MindElixir, { E } from 'mind-elixir'
 **Breaking Change** since 1.0.0, `data` should be passed to `init()`, not `options`.
 
 ```javascript
-import MindElixir, { E } from 'mind-elixir'
+import MindElixir, { E } from 'kreatorpro-mind-elixir'
 import { exportSvg, exportPng } from '../dist/painter'
 import example from '../dist/example1'
 
