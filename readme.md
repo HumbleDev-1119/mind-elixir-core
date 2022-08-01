@@ -47,7 +47,7 @@ with Vue https://codesandbox.io/s/mind-elixir-vue-nqjjl
 #### NPM
 
 ```bash
-npm i mind-elixir -S
+npm i kreatorpro-mind-elixir -S
 ```
 
 ```javascript
