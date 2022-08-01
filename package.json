@@ -22,7 +22,7 @@
     "type": "git",
     "url": "https://github.com/HumbleDev-1119/mind-elixir-core"
   },
-  "homepage": "https://mind-elixir.com/",
+  "homepage": "",
   "author": "humbledev-1119",
   "publishConfig": {
     "@humbledev1119:registry": "https://npm.pkg.github.com"
