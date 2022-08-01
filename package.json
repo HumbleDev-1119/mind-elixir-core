@@ -1,6 +1,7 @@
 {
   "name": "kreatorpro-mind-elixir",
-  "version": "1.1.0",
+  "version": "1.0.0",
+  "email": "yuraivanov.dev@gmail.com",
   "description": "Mind elixir is a free open source mind map core.",
   "main": "dist/MindElixir.js",
   "scripts": {
@@ -22,7 +23,10 @@
     "url": "https://github.com/HumbleDev-1119/mind-elixir-core"
   },
   "homepage": "https://mind-elixir.com/",
-  "author": "ssshooter",
+  "author": "humbledev-1119",
+  "publishConfig": {
+    "@humbledev1119:registry": "https://npm.pkg.github.com"
+  },
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.5",
