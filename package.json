@@ -1,6 +1,6 @@
 {
   "name": "kreatorpro-mind-elixir",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "email": "yuraivanov.dev@gmail.com",
   "description": "Mind elixir is a free open source mind map core.",
   "main": "dist/MindElixir.js",
